@@ -1,0 +1,27 @@
+typography_spectrum: 0.10588391137327816
+color:
+  brandStrength: 0.7081591894757924
+  lightness: 0.0976805056040498
+  saturation: 0.3628130682185292
+  rhythmicContrast: 0.7459084387791186
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+github: true
+layout_spectrum: 0.3772455030755315
+author:
+  name: Kristin Bodiford
+  email: kristin@designingresearch.com
+  url: www.designingresearch.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/187ff3d1-26f1-4e6e-b598-76665fac4364.png
+name: Designing Research
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/db01a3e4-073a-4351-b9f7-8428c7940d33.png
+title: 'Designing Research is…. '
+content: []
+description: 'Relational and Collaborative '
+purpose: []
