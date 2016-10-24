@@ -23,6 +23,9 @@ navigation:
   - name: Bridging research and practice
     id: 52f3a3f5-5787-4c9a-b676-a3dacd9676b8
     type: content
+  - name: b
+    url: 'http://b.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/db01a3e4-073a-4351-b9f7-8428c7940d33.png
 title: 'Designing Research is…. '
